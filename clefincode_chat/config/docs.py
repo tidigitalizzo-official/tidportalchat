@@ -7,4 +7,4 @@ Configuration for docs
 # sub_heading = "Enhance Team Collaboration with ERPNext & Frappe Chat"
 
 def get_context(context):
-	context.brand_html = "ClefinCode Chat"
+	context.brand_html = "Portal Chat"
