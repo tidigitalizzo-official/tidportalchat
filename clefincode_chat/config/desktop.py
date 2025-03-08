@@ -3,8 +3,8 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "ClefinCode Chat",
+			"module_name": "Portal Chat",
 			"type": "module",
-			"label": _("ClefinCode Chat")
+			"label": _("Portal Chat")
 		}
 	]
