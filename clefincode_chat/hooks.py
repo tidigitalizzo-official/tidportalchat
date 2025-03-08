@@ -1,11 +1,11 @@
 from . import __version__ as app_version
 from frappe import __version__ as frappe_version
 
-app_name = "clefincode_chat"
-app_title = "ClefinCode Chat"
-app_publisher = "ClefinCode L.L.C-FZ"
-app_description = """ERPNext & Frappe Business Chat: A self-hosted communication solution."""
-app_email = "info@clefincode.com"
+app_name = "Portal Chat"
+app_title = "Portal Chat"
+app_publisher = "TIDigitalizzo SA"
+app_description = """TID Portal Business Chat: A self-hosted communication solution."""
+app_email = "info@tidigitalizzo.ch"
 app_license = "GNU General Public License (v3)"
 guest_title = app_title
 is_frappe_above_v13 = int(frappe_version.split('.')[0]) > 13
